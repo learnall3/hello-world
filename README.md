@@ -1,2 +1,2 @@
 # hello-world
-Github hello wrodl
+Github hello world
